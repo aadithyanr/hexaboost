@@ -2,6 +2,10 @@
 
 a super minimal bootloader written in x86 assembly. this project shows how computers boot up at the lowest level - just raw metal and code.
 
+## screenshot
+
+![hexaboost running in qemu](screenshots/hexaboost-demo.png)
+
 ## what it does
 
 - runs in 16-bit real mode (old school)
